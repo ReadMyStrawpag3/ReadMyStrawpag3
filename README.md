@@ -34,7 +34,7 @@
 <p align="center"> ${{\color{red}{\texttt{。 • ˚ ˚ ˛ ˚ ˛ • 。* 。° 。* 。 • ˚ *}}}}$ </p>
 <p align="center"> ${{\color{orange}{\texttt{✦ · · · · ═══════ ʚ 🔥 ɞ ═══════· · · · ✦}}}}$ </p>
 
-<text_here>
+<wip.. i dont feellike putting anythjing here>
 
 <p align="center"> ${{\color{orange}{\texttt{✦ · · · · ═══════ ʚ 🔥 ɞ ═══════· · · · ✦}}}}$ </p>
 <p align="center"> ${{\color{red}{\texttt{。 • ˚ ˚ ˛ ˚ ˛ • 。* 。° 。* 。 • ˚ *}}}}$ </p>
