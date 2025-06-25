@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**ReadMyStrawpag3/ReadMyStrawpag3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> ${{\color{#9a0e0e}\Huge{\texttt{꧁ . . . 𝓓𝓸 𝔂𝓸𝓾 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓶𝓪𝓰𝓲𝓬 ? . . . ꧂}}}}$ </p>
 
-Here are some ideas to get you started:
+<p align="center"> ${{\color{#e67e22}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .}}}}$ </p>
+<p align="center"> ${{\color{#f39c12}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
+<p align="center"> ${{\color{#f3d212}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+  ![views](https://komarev.com/ghpvc/?username=ReadMyStrawpag3&abbreviated=true&label=Views☆&color=9a0e0e)
+
+<p align="center"> $${\color{red}
+୧ ‧₊˚ 🔥⋅ Pyro }$$
+<p align="center"> $${\color{orange}
+•┈୨♡୧┈•  }$$
+<p align="center"> $${\color{#f3d212}
+ᡣ𐭩 ⊹˚. * ── ✿ ── . ݁₊ ⊹ . ݁˖ . ݁ }$$
+  <p align="center"> $${\color{yellow}
+˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ }$$
+<div align="center">
+
+<p align="center"
+  
+<p align="center"> $${\color{9a0e0e}
+  Sage    or    Pyro }$$
+<p align="center"> $${\color{cyan}
+   ⊹ ࣪ ˖₊˚⊹⋆   }$$
+<p align="center"> $${\color{blue}
+  info  below }$$
+
+<p align="center"> ${{\color{#0d1978}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .}}}}$ </p>
+
+
+<p align="center"> ${{\color{red}{\texttt{。 • ˚ ˚ ˛ ˚ ˛ • 。* 。° 。* 。 • ˚ *}}}}$ </p>
+<p align="center"> ${{\color{orange}{\texttt{✦ · · · · ═══════ ʚ 🔥 ɞ ═══════· · · · ✦}}}}$ </p>
+
+<text_here>
+
+<p align="center"> ${{\color{orange}{\texttt{✦ · · · · ═══════ ʚ 🔥 ɞ ═══════· · · · ✦}}}}$ </p>
+<p align="center"> ${{\color{red}{\texttt{。 • ˚ ˚ ˛ ˚ ˛ • 。* 。° 。* 。 • ˚ *}}}}$ </p>
+
+<p align="center"> ${{\color{#0d1978}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .}}}}$ </p>
+
+[˚₊‧꒰ა 🔥⋅ Straw Page](https://imgoingtoexplodeyourhouse.straw.page/)
+
+[୧ ‧₊˚ 🔥⋅ Front (wip)](https://pluralkit.xyz/f/zhtaok)
+ 
+
+<p align="center"> ${{\color{#f3d212}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
+<p align="center"> ${{\color{#f39c12}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
+<p align="center"> ${{\color{#e67e22}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .}}}}$ </p>
+
+edited, coded, and decorated by [LuminescentOceansSys](https://github.com/LuminescentOceansSys) everything else goes to sage ♡
